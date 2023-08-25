@@ -1,7 +1,7 @@
 # -------------------------------------
 # Script: 
 
-# Author: Claes Croneborg
+# Author: Claes
 
 # Ämne: 
 
